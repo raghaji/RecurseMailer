@@ -1,2 +1,2 @@
-*.html linguist-detectable=false
+*.htm linguist-detectable=false
 *.ps1 linguist-detectable=true
