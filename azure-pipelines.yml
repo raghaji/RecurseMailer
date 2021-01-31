@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: 'windows server 2016'
+  vmImage: 'windows-latest'
 
 steps:
 - script: echo Hello, world!
